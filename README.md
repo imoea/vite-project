@@ -1,5 +1,7 @@
 # Vite + Deno + React + TypeScript
 
+A sandbox for learning web development with React + TypeScript.
+
 ## Running
 
 You need to have Deno v2.0.0 or later installed to run this repo.
